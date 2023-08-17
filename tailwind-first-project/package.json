@@ -1,0 +1,16 @@
+{
+  "name": "exercise-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind-default.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/input.css -o dist/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
