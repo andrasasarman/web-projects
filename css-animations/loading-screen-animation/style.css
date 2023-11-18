@@ -1,0 +1,60 @@
+div#circle{
+    width: 12rem;
+    height: 12rem;
+    border: 10px solid rosybrown;
+    margin: 25% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    animation: circle 2s infinite forwards;
+}
+
+@keyframes circle {
+    0%{
+        border-color: rosybrown;
+        transform: scale(1);
+    }
+    25%{
+        border-color: bisque;
+        transform: scale(1.1);
+    }
+    50%{
+        border-color: beige;
+        transform: scale(1.3);
+    }
+    75%{
+        border-color: blanchedalmond;
+        transform: scale(1.1);
+    }
+    100%{
+        border-color: thistle;
+        transform: scale(1);
+    }
+}
+
+div#sqare{
+    width: 3rem;
+    height: 3rem;
+    background-color: thistle;
+    animation: square 2s infinite ease-in-out alternate-reverse;
+}
+
+@keyframes square {
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        background-color:blanchedalmond ;
+    }
+    50%{
+        background-color: beige;
+    }
+    75%{
+        background-color:bisque ;
+    }
+    100%{
+        transform: rotate(360deg);
+        background-color: rosybrown;
+    }
+}
