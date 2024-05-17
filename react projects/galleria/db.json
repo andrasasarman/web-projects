@@ -1,0 +1,112 @@
+{
+    "paintings" : [
+        {
+            "name" : "The Starry Night",
+            "author" : "Vincent van Gogh",
+            "year" : 1889,
+            "description" : "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh painted in June 1889. It depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village.",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/700px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+            "id" : 1,
+            "authorImage" : "https://cdn.britannica.com/83/190483-050-FE927054/Self-Portrait-canvas-Vincent-van-Gogh-National-Gallery-1889.jpg"
+        },
+        {
+            "name" : "The Persistence of Memory",
+            "author" : "Salvador Dalí",
+            "year" : 1931,
+            "description" : "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First shown at the Julien Levy Gallery in 1932, since 1934 the painting has been in the collection of the Museum of Modern Art (MoMA) in New York City, which received it from an anonymous donor.",
+            "image" : "https://www.phaidon.com/resource/persistenceofmemory1931.jpg",
+            "authorImage" : "https://www.galerie-montmartre.com/wp-content/uploads/2021/04/43953-0012c0ab3eec050fdd03c357c26b11df60bce9d0-story_inline_image-e1618682400264.jpg",
+            "id" : 2
+        },
+        {
+            "name" : "The Scream",
+            "author" : "Edvard Munch",
+            "year" : 1893,
+            "description" : "The Scream is the popular name given to a composition created by Norwegian Expressionist artist Edvard Munch in 1893. The original German title given by Munch to his work was Der Schrei der Natur (The Scream of Nature), and the Norwegian title is Skrik (Shriek).",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/800px-The_Scream.jpg",
+            "id" : 3,
+            "authorImage" : "https://hips.hearstapps.com/hmg-prod/images/gettyimages-600031727jpg--.jpg?resize=1200:*"
+        },
+        {
+            "name" : "Girl with a Pearl Earring",
+            "author" : "Johannes Vermeer",
+            "year" : 1665,
+            "description" : "The painting is a tronie, the Dutch 17th-century description of a head that was not meant to be a portrait. It depicts a European girl wearing exotic dress, an oriental turban, and what appears to be a very large pearl as an earring. The subject of the painting is unknown, with it being possible either that she was a real model, or that Vermeer created a more generalised and mysterious woman, perhaps representing a Sibyl or biblical figure.[4] There has been speculation that she is the artist's eldest daughter, Maria, though this has been dismissed as an anachronism by some art historians.",
+            "id" : 4,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/540px-1665_Girl_with_a_Pearl_Earring.jpg",
+            "authorImage" : "https://www.johannesvermeer.org/assets/img/vermeer.jpg"
+        },
+        {
+            "name" : "The Birth of Venus",
+            "author" : "Sandro Botticelli",
+            "year" : 1486,
+            "description" : "The Birth of Venus is a painting by the Italian artist Sandro Botticelli, probably made in the mid 1480s. It depicts the goddess Venus arriving at the shore after her birth, when she had emerged from the sea fully-grown (called Venus Anadyomene and often depicted in art). The painting is in the Uffizi Gallery in Florence, Italy.",
+            "id" : 5,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+            "authorImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/440px-Sandro_Botticelli_083.jpg"
+        },
+        {
+            "name" : "The Night Watch",
+            "author" : "Rembrandt",
+            "year" : 1642,
+            "description" : "The Night Watch is a 1642 painting by Rembrandt van Rijn. It is in the collection of the Amsterdam Museum but is prominently displayed in the Rijksmuseum as the best-known painting in its collection. The Night Watch is one of the most famous Dutch Golden Age paintings.",
+            "id" : 6,
+            "image" : "https://ichef.bbci.co.uk/images/ic/1920xn/p070wbmx.jpg.webp",
+            "authorImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/440px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+        },
+        {
+            "name" : "The Kiss",
+            "author" : "Gustav Klimt",
+            "year" : 1907,
+            "description" : "The Kiss (in German Der Kuss) is an oil-on-canvas painting with added gold leaf, silver and platinum. by the Austrian Symbolist painter Gustav Klimt, and was painted between 1907 and 1908 during the height of Klimt's 'Golden Period'. The painting depicts a couple embracing one another, their bodies entwined in elaborate robes decorated in a style influenced by both linear constructs of the contemporary Art Nouveau style and the organic forms of the earlier Arts and Crafts movement.",
+            "id" : 7,
+            "image" : "https://cdn.europosters.eu/image/750webp/106942.webp",
+            "authorImage" : "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTLMc_8pukttdPhrPoZQm8Rf5UdS1_HNhBXKQRMsz2C3J8fF5DWD0tOs1K33CBG0vzkw0CHou4oeWoWNXM"
+        },
+        {
+            "name" : "The Garden of Earthly Delights",
+            "author" : "Hieronymus Bosch",
+            "year" : 1490,
+            "description" : "The Garden of Earthly Delights is the modern title given to a triptych oil painting on oak panel painted by the Early Netherlandish master Hieronymus Bosch, between 1490 and 1510, when Bosch was between 40 and 60 years old. It has been housed in the Museo del Prado in Madrid since 1939.",
+            "id" : 8,
+            "image" : "https://www.1st-art-gallery.com/cdn-cgi/image/format=webp,quality=85,width=840/media/magefan_blog/Hieronymus_Bosch_s_The_Garden_of_Earthly_Delights_.jpg",
+            "authorImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/440px-Jheronimus_Bosch_%28cropped%29.jpg"
+        },
+        {
+            "name" : "The Great Wave off Kanagawa",
+            "author" : "Katsushika Hokusai",
+            "year" : 1831,
+            "description" : "The Great Wave off Kanagawa, also known as The Great Wave or simply The Wave, is a woodblock print by the Japanese ukiyo-e artist Hokusai. It was published sometime between 1829 and 1833 in the late Edo period as the first print in Hokusai's series Thirty-six Views of Mount Fuji. It is Hokusai's most famous work and one of the most recognizable works of Japanese art in the world.",
+            "id" : 9,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/800px-The_Great_Wave_off_Kanagawa.jpg",
+            "authorImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Portrait_of_Katsushika_Hokusai_by_disciple_Keisai_Eisen.png/440px-Portrait_of_Katsushika_Hokusai_by_disciple_Keisai_Eisen.png"
+        },
+        {
+            "name" : "The Last Supper",
+            "author" : "Leonardo da Vinci",
+            "year" : 1498,
+            "description" : "The Last Supper is a late 15th-century mural painting by Italian artist Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. It is one of the Western world's most recognizable paintings.",
+            "id" : 10,
+            "image" : "https://theartchi.com/cdn/shop/articles/Screenshot_2023-07-12_180740.jpg?v=1703224039&width=1400",
+            "authorImage" : "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/06/24/leo.jpg"
+        },
+        {
+            "name" : "The Creation of Adam",
+            "author" : "Michelangelo",
+            "year" : 1512,
+            "description" : "The Creation of Adam is a fresco painting by Italian artist Michelangelo, which forms part of the Sistine Chapel's ceiling, painted c. 1508–1512. It illustrates the Biblical creation narrative from the Book of Genesis in which God gives life to Adam",
+            "id" : 11,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/540px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+            "authorImage" : "https://cdn.britannica.com/46/75046-050-0973B0E8/Michelangelo.jpg?w=400&h=300&c=crop"
+        },
+        {
+            "name" : "The Mona Lisa",
+            "author" : "Leonardo da Vinci",
+            "year" : 1503,
+            "description" : "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'.",
+            "id" : 12,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+            "authorImage" : "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2019/06/24/leo.jpg"
+        }
+    ]
+}
