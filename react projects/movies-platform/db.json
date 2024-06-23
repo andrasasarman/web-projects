@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "email": "andra.sasarman@yahoo.com",
+      "password": "$2a$10$6UWREzvzhJA.oUgzW6j.f.DcejYeoRn0sy/S5NJrUIQT.A87Vqbn6",
+      "username": "andra.sasarman@yahoo.com",
+      "id": 1
+    },
+    {
+      "email": "andra@atpcl.one",
+      "password": "$2a$10$tB2qxzuJx6EurRC7ByednOwK02Jhh2UohmlrD432H08MHq66rLkYO",
+      "username": "andra@atpcl.one",
+      "id": 2
+    }
+  ],
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "imageUrl": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s",
+      "category": "Movie",
+      "pg": "PG",
+      "bookmarked": true,
+      "id": "8f14cc8d-340c-441e-838a-6dc32500e41e"
+    },
+    {
+      "title": "The Dark",
+      "year": "2008",
+      "imageUrl": "https://fastly.picsum.photos/id/42/3456/2304.jpg?hmac=dhQvd1Qp19zg26MEwYMnfz34eLnGv8meGk_lFNAJR3g",
+      "category": "Movie",
+      "pg": "16+",
+      "bookmarked": false,
+      "id": "11847644-f4b5-403f-91d8-87b93efe9bf3"
+    },
+    {
+      "title": "The Shawshank",
+      "year": "2001",
+      "imageUrl": "https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI",
+      "category": "Movie",
+      "pg": "PG",
+      "bookmarked": true,
+      "id": "9ec0c27b-652f-457a-81b7-b9bf1b5eb30a",
+      "trending": true,
+      "url": "https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI"
+    },
+    {
+      "title": "The Godfather 2",
+      "year": "1972",
+      "imageUrl": "https://fastly.picsum.photos/id/49/1280/792.jpg?hmac=NnUJy0O9-pXHLmY2loqVs2pJmgw9xzuixgYOk4ALCXU",
+      "category": "Movie",
+      "pg": "PG",
+      "bookmarked": true,
+      "id": "e6898532-6c7f-41f7-8a0b-41e6510f8046",
+      "trending": true
+    },
+    {
+      "title": "The Knight",
+      "year": "2008",
+      "imageUrl": "https://fastly.picsum.photos/id/58/1280/853.jpg?hmac=YO3QnOm9TpyM5DqsJjoM4CHg8oIq4cMWLpd9ALoP908",
+      "category": "Movie",
+      "pg": "18+",
+      "bookmarked": true,
+      "id": "bf05a33b-5283-48e8-bc65-0cb4bb89c58d"
+    },
+    {
+      "title": "The Redemption",
+      "year": "1994",
+      "imageUrl": "https://fastly.picsum.photos/id/87/1280/960.jpg?hmac=tyU21LuCEO1qRepY4GnT9gGkfKbvY__ZrZYg_JxZxI8",
+      "category": "Movie",
+      "pg": "18+",
+      "bookmarked": true,
+      "id": "ac3d06dc-a158-4d2a-a88a-a282a8c53429",
+      "trending": true
+    },
+    {
+      "title": "The Godfather 3",
+      "year": "1982",
+      "imageUrl": "https://fastly.picsum.photos/id/83/2560/1920.jpg?hmac=LFdAxfpbYKs0hZr0LhHVWyqXarWGg7FtM8pIzJPBc0w",
+      "category": "Series",
+      "pg": "PG",
+      "bookmarked": false,
+      "id": "efe6c98b-b2fb-4216-9732-5a38ddc0b1ac"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": "2026",
+      "imageUrl": "https://fastly.picsum.photos/id/78/1584/2376.jpg?hmac=80UVSwpa9Nfcq7sQ5kxb9Z5sD2oLsbd5zkFO5ybMC4E",
+      "category": "Movie",
+      "pg": "PG",
+      "bookmarked": false,
+      "id": "294ac841-27f1-4343-81a3-d7edac15ff4b",
+      "trending": true,
+      "url": "https://fastly.picsum.photos/id/78/1584/2376.jpg?hmac=80UVSwpa9Nfcq7sQ5kxb9Z5sD2oLsbd5zkFO5ybMC4E"
+    },
+    {
+      "title": "The Shawshank Redemption 2",
+      "year": "1999",
+      "imageUrl": "https://fastly.picsum.photos/id/70/3011/2000.jpg?hmac=-npCfe1kpGYW7HcBlZvrEZ9Qb_EdiGLbDxE26amgotM",
+      "category": "Movie",
+      "pg": "PG",
+      "bookmarked": false,
+      "id": "33f4c490-deb2-48f5-9934-864420d2cd08"
+    }
+  ]
+}

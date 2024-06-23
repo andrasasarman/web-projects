@@ -1,0 +1,91 @@
+.movie{
+    position: relative;
+    border: 0.1rem solid hsl(220deg 40.3% 13.14%);
+    border-radius: 1rem;
+}
+.movie .movie__image{
+    aspect-ratio: 2/1;
+
+}
+.movie .movie__image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.movie__bookmark{
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 1rem;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.movie__title{
+    padding: 1rem;
+    background-color: hsl(220deg 40.3% 13.14%);
+    color: white;
+    text-align: center;
+    gap: 0.5rem;
+}
+
+.movie__details{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.movie--large{
+    border: none;
+}
+
+.movie--large .movie__title{
+    position: absolute;
+    bottom: 25%;
+}
+
+.movie--large .movie__details{
+    position: absolute;
+    bottom: 0;
+    background-color: hsl(220deg 40.3% 13.14%);
+    margin: 1rem 0;
+    padding: 0 1rem;
+}
+
+.movie--moviePage{
+    border: none;
+    border-radius: none;
+}
+
+.movie--moviePage .movie__image{
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    width: 50%;
+    height: 50%;
+}
+
+.movie--moviePage .movie__image img{
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.movie--moviePage .movie__title{
+    padding: 1rem;
+    font-size: 2rem;
+    color: white;
+    text-align: left;
+    gap: 0.5rem;
+    background-color: transparent;
+}
+.movie--moviePage .movie__details{
+    padding: 1rem;
+    flex-direction: column;
+}
+
+.movie--moviePage .movie__bookmark{
+    display: none;
+}

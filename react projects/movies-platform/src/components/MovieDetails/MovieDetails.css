@@ -1,0 +1,13 @@
+
+.movie-details__header{
+    padding: 1rem;
+}
+
+.movie-details__button{
+    text-align: start;
+    padding: 1rem;
+    margin: 1rem;
+    width: fit-content;
+    background-color: hsl(220deg 40.3% 13.14%);
+    border-radius: 1rem;
+}
